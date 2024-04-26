@@ -1,0 +1,5 @@
+O PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto. 
+Ele é usado para armazenar e gerenciar dados estruturados de forma eficiente. 
+O PostgreSQL é altamente valorizado devido à sua confiabilidade, extensibilidade e suporte para recursos avançados, como transações ACID, chaves estrangeiras, procedimentos armazenados e replicação.
+Sua utilidade reside na sua capacidade de lidar com uma ampla gama de cargas de trabalho.
+Sua flexibilidade para se integrar a várias aplicações e ambientes de desenvolvimento.
